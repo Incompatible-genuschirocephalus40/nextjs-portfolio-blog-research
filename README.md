@@ -35,6 +35,7 @@ A modern portfolio website with an integrated blog, supporting seamless AI-assis
 - 🤖 **SEO optimized:** Includes metadata, JSON-LD, and Open Graph tags for top rankings.
 - 🗺️ **Sitemap & robots:** SEO and crawling handled automatically.
 - 💯 **Lighthouse perfection:** Tuned for top performance and best practices.
+- 📊 **Analytics ready:** Connect Google Analytics 4, Google Tag Manager, and Google Search Console for powerful insights.
 - 💖 **Prettier:** Effortless code formatting.
 - 📏 **ESLint:** Linting for code quality and consistency.
 - 🏗️ **Inspired by:** [dillionverma/portfolio](https://github.com/dillionverma/portfolio)
